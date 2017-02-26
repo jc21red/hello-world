@@ -1,3 +1,3 @@
 # hello-world
-Just learning
+Just learning.
 Try again
